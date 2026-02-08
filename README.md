@@ -45,7 +45,7 @@ When you run `vagrant up`, the script performs the following steps automatically
 ## 🌐 Network Configuration
 
 - **VM Private IP:** `192.168.58.30`
-- **Access the website at:** [http://192.168.58.30](http://192.168.58.30)
+- **Access the website at:** [http://192.168.58.30](https://192.168.58.30)
 
 ---
 
@@ -70,7 +70,7 @@ When you run `vagrant up`, the script performs the following steps automatically
 
 3. Access the application
     ```bash
-    After provisioning finishes, open your browser and go to: http://192.168.58.30
+    After provisioning finishes, open your browser and go to: https://192.168.58.30
 
 ⚙️ Management Commands
 - **Re-run Provisioning (if you changed the script):** 
